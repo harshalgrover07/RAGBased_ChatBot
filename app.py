@@ -89,7 +89,7 @@ embedding_model = HuggingFaceBgeEmbeddings(model_name='all-MiniLM-L6-v2')
 
 # Lets Create the the main page
 
-st.title(':orange[ChatBot:]:blue[AI Assisted chatbot using RAG]')
+#st.title(':orange[ChatBot:]:blue[AI Assisted chatbot using RAG]')
 tips ='''
 Follow The Steps to use the appliction:
 * Upload your PDF Documnets in sidebr.
